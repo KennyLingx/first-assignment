@@ -1,2 +1,2 @@
 # First-Assignment
-- hello
+- This is my first assignment about Code Refactor
